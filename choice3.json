@@ -1,0 +1,18 @@
+{
+    "HeadCount": 10,
+    "ChildList": [
+        {
+            "HeadCount": 3,
+            "ChildList": [
+                {
+                    "HeadCount": 1,
+                    "ChildList": []
+                }
+            ]
+        },
+        {
+            "HeadCount": 2,
+            "ChildList": []
+        }
+    ]
+}
